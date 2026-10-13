@@ -1,2 +1,4 @@
 # ktp-ocr-mlops
-End-to-end KTP OCR and validation system with ML production pipeline (DVC, MLflow, Docker, FastAPI deployment)
+**KTP OCR – MLOps: End-to-End Identity Verification System**
+
+Developed an end-to-end KTP OCR and validation system that integrates computer vision, optical character recognition (OCR), and MLOps practices to automate Indonesian identity document processing. Built a modular application using Python, OpenCV, and OCR tools, with FastAPI for REST API deployment. Designed an ML production pipeline incorporating DVC for data and model versioning, MLflow for experiment tracking and model performance monitoring, and Docker for containerization and deployment. Organized the project into modular components for API services, source code, datasets, and temporary processing files to support maintainability and reproducibility. The project demonstrates practical implementation of the machine learning lifecycle, from data preparation and experimentation to API integration and deployment.
